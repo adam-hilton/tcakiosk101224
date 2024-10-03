@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://tcakiosk101224.netlify.app/'
 languageCode = 'en-us'
 title = 'Gestural Tech in Music'
 theme = 'lightbi-hugo'
