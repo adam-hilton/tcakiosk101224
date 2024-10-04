@@ -6,21 +6,14 @@
     <description>Recent content in Blog on Gestural Tech in Music</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Feb 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Laurie Anderson (1980s)</title>
-      <link>http://localhost:1313/post/2020/jan/laurie/</link>
-      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2020/jan/laurie/</guid>
-      <description>Instrument: Tape-bow violin, MIDI gloves Example: Laurie Anderson made a special violin that plays music by moving a bow over tape. Later, she used gloves that could control music by moving her hands around.</description>
-    </item>
-    <item>
-      <title>Build a Hugo Blog</title>
-      <link>http://localhost:1313/post/2020/jan/build-hugo-blog/</link>
-      <pubDate>Wed, 31 Dec 1969 18:00:00 -0600</pubDate>
-      <guid>http://localhost:1313/post/2020/jan/build-hugo-blog/</guid>
-      <description>Hugo? It’s a fast and static website generator written in the Go language. Websites built with Hugo can be hosted anywhere from GitHub Pages to Amazon S3 without any database or other language dependencies.</description>
+      <title>Leon Theremin</title>
+      <link>http://localhost:1313/post/2020/jan/theremin/</link>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2020/jan/theremin/</guid>
+      <description>&lt;h3 id=&#34;1920s&#34;&gt;(1920s)&lt;/h3&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Technology&lt;/strong&gt;: Theremin&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Theremin was the inventor of the Theremin, one of the earliest electronic instruments, which is controlled without physical contact. Musicians move their hands near two antennas to control pitch and volume.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

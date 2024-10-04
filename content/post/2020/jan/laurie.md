@@ -1,9 +1,9 @@
 ---
 title: Laurie Anderson (1980s)
 date: 2021-02-02
-tags: ["hugo","blog"]
+# tags: ["hugo","blog"]
 image : "/img/posts/img-3.jpg"
-Description  : "After downloding the theme, uzip the file and go to the'lightbi-hugo-master' folder. Open the folder in you editor..."
+Description  : "Tape-bow violin and more"
 featured: true
 ---
 
