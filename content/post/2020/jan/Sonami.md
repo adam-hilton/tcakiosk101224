@@ -6,6 +6,12 @@ image : "/img/posts/img-1.jpg"
 Description  : "Sensor-y gloves"
 ---
 
-- **Instrument/Technology**: Lady's Glove
-- **Example**: Sonami’s *Lady's Glove* uses sensors in a glove that map gestures to manipulate sound in real-time.
-- **Key Work**: She has performed with the Lady’s Glove extensively, creating unique gestural music since the early 1990s.
+### Instrument: **Lady's Glove**
+
+##### (1990s)
+
+###### --
+
+Laetitia Sonami made a glove with buttons and sensors. By moving her hand, she could create all kinds of sounds.
+
+She has been performing with the Lady’s Glove for over 30 years, showing off how she makes music with small hand movements.
