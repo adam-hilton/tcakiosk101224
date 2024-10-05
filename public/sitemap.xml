@@ -57,22 +57,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/blog/</loc>
+    <loc>http://localhost:1313/post/2020/jan/01-theremin/</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
-    <lastmod>2021-02-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/post/2020/jan/theremin/</loc>
-    <lastmod>2021-02-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/post/2020/jan/anderson/</loc>
+    <loc>http://localhost:1313/post/2020/jan/02-waisvisz/</loc>
     <lastmod>2021-02-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -97,52 +87,37 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2020/jan/sonami/</loc>
+    <loc>http://localhost:1313/post/2020/jan/04-sonami/</loc>
     <lastmod>2020-01-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2020/jan/syntax/</loc>
+    <loc>http://localhost:1313/post/2020/jan/07-tanaka/</loc>
     <lastmod>2020-01-25T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/markdown/</loc>
-    <lastmod>2020-01-25T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/syntax/</loc>
-    <lastmod>2020-01-25T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/post/2020/jan/rich-content/</loc>
+    <loc>http://localhost:1313/post/2020/jan/05-pamela/</loc>
     <lastmod>2020-01-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/shortcodes/</loc>
-    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/post/2020/jan/netlify-conf/</loc>
+    <loc>http://localhost:1313/post/2020/jan/06-heap/</loc>
     <lastmod>2020-01-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/netlify/</loc>
-    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/stoicism/</loc>
+    <loc>http://localhost:1313/post/2020/jan/08-bjork/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2020/jan/who-am-i/</loc>
+    <loc>http://localhost:1313/post/2020/jan/03-spiegel/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/post/2020/jan/09-marco/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

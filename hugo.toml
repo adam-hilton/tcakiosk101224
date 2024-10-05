@@ -1,6 +1,6 @@
 baseURL = 'https://tcakiosk101224.netlify.app/'
 languageCode = 'en-us'
-title = 'Gestural Tech in Music'
+title = 'Movement to Music'
 theme = 'lightbi-hugo'
 DefaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
@@ -40,20 +40,6 @@ description="Your can add your website description here."
 previewCardImagePlacement = "bottom"
 
 
-[[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
-
-[[menu.main]]
-    name = "Notes"
-    url = "/notes/"
-    weight = 2
-
-[[menu.main]]
-    name = "Collections"
-    url = "/collections/"
-    weight = 4
 
 
 [sitemap]

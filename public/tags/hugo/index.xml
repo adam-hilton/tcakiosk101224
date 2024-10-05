@@ -10,24 +10,10 @@
     <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Leon Theremin</title>
-      <link>http://localhost:1313/post/2020/jan/theremin/</link>
+      <link>http://localhost:1313/post/2020/jan/01-theremin/</link>
       <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2020/jan/theremin/</guid>
-      <description>(1920s) Instrument: Theremin Leon Theremin created an instrument in the 1920s named after him: the theremin.&#xA;It&amp;rsquo;s one of the earliest electronic instruments, and it&amp;rsquo;s controlled without physical contact. Musicians move their hands near two antennas to control pitch and volume.</description>
-    </item>
-    <item>
-      <title>Rich Content</title>
-      <link>http://localhost:1313/post/2020/jan/rich-content/</link>
-      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2020/jan/rich-content/</guid>
-      <description>Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.</description>
-    </item>
-    <item>
-      <title>Host in Netlify</title>
-      <link>http://localhost:1313/post/2020/jan/netlify-conf/</link>
-      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2020/jan/netlify-conf/</guid>
-      <description>You can host your static website wth zero cost in Netlify.&#xA;Add the below netlify.toml in the root folder.&#xA;[build] publish = &amp;quot;public&amp;quot; command = &amp;quot;hugo --gc --minify&amp;quot; [context.production.environment] HUGO_VERSION = &amp;quot;0.</description>
+      <guid>http://localhost:1313/post/2020/jan/01-theremin/</guid>
+      <description>Instrument: Theremin (1920s) &amp;ndash; Leon Theremin created an instrument in the 1920s named after him: the Theremin.&#xA;The Theremin is an electronic instrument where you don’t touch it at all! By waving your hands near two antennas, one for pitch (how high or low the sound is) and one for volume (how loud or soft), you control the sound.</description>
     </item>
   </channel>
 </rss>

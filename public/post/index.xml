@@ -1,61 +1,75 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gestural Tech in Music</title>
+    <title>Movement to Music</title>
     <link>http://localhost:1313/post/</link>
-    <description>Recent content on Gestural Tech in Music</description>
+    <description>Recent content on Movement to Music</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Feb 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Leon Theremin</title>
-      <link>http://localhost:1313/post/2020/jan/theremin/</link>
+      <link>http://localhost:1313/post/2020/jan/01-theremin/</link>
       <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2020/jan/theremin/</guid>
-      <description>(1920s) Instrument: Theremin Leon Theremin created an instrument in the 1920s named after him: the theremin.&#xA;It&amp;rsquo;s one of the earliest electronic instruments, and it&amp;rsquo;s controlled without physical contact. Musicians move their hands near two antennas to control pitch and volume.</description>
+      <guid>http://localhost:1313/post/2020/jan/01-theremin/</guid>
+      <description>Instrument: Theremin (1920s) &amp;ndash; Leon Theremin created an instrument in the 1920s named after him: the Theremin.&#xA;The Theremin is an electronic instrument where you don’t touch it at all! By waving your hands near two antennas, one for pitch (how high or low the sound is) and one for volume (how loud or soft), you control the sound.</description>
     </item>
     <item>
-      <title>Laurie Anderson (1980s)</title>
-      <link>http://localhost:1313/post/2020/jan/anderson/</link>
+      <title>Michel Waisvisz</title>
+      <link>http://localhost:1313/post/2020/jan/02-waisvisz/</link>
       <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2020/jan/anderson/</guid>
-      <description>1980s Instrument: Tape-bow violin, MIDI gloves Example: Laurie Anderson made a special violin that plays music by moving a bow over tape. Later, she used gloves that could control music by moving her hands around.</description>
+      <guid>http://localhost:1313/post/2020/jan/02-waisvisz/</guid>
+      <description>Instrument: The Hands (1970s) &amp;ndash; Michel Waisvisz, a Dutch composer and inventor, developed a groundbreaking instrument called The Hands. This instrument allowed him to control electronic sounds by simply moving his hands in the air.</description>
     </item>
     <item>
       <title>Laetitia Sonami</title>
-      <link>http://localhost:1313/post/2020/jan/sonami/</link>
+      <link>http://localhost:1313/post/2020/jan/04-sonami/</link>
       <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2020/jan/sonami/</guid>
-      <description>Instrument/Technology: Lady&amp;rsquo;s Glove Example: Sonami’s Lady&amp;rsquo;s Glove uses sensors in a glove that map gestures to manipulate sound in real-time. Key Work: She has performed with the Lady’s Glove extensively, creating unique gestural music since the early 1990s.</description>
+      <guid>http://localhost:1313/post/2020/jan/04-sonami/</guid>
+      <description>Instrument: Lady&amp;rsquo;s Glove (1990s) &amp;ndash; Laetitia Sonami’s special glove had sensors that let her make music by moving her hands. She could control different sounds or even lights by bending her fingers or waving her arm.</description>
     </item>
     <item>
-      <title>Basic Syntax</title>
-      <link>http://localhost:1313/post/2020/jan/syntax/</link>
+      <title>Atau Tanaka</title>
+      <link>http://localhost:1313/post/2020/jan/07-tanaka/</link>
       <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2020/jan/syntax/</guid>
-      <description>Headings&#xA;To create a heading, add number signs (#) in front of a word or phrase. The number of number signs you use should correspond to the heading level. For example, to create a heading level three (h3), use three number signs (e.</description>
+      <guid>http://localhost:1313/post/2020/jan/07-tanaka/</guid>
+      <description>Instrument: Muscle Sensors (2000s) &amp;ndash; Atau Tanaka uses special sensors that track the movements of his muscles. As he moves his arms or tightens his muscles, the sensors send information to a computer that turns those movements into sound.</description>
     </item>
     <item>
-      <title>Rich Content</title>
-      <link>http://localhost:1313/post/2020/jan/rich-content/</link>
+      <title>Pamela Z</title>
+      <link>http://localhost:1313/post/2020/jan/05-pamela/</link>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2020/jan/rich-content/</guid>
-      <description>Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.</description>
+      <guid>http://localhost:1313/post/2020/jan/05-pamela/</guid>
+      <description>Instrument: BodySynth (1990s) &amp;ndash; Pamela Z uses sensors placed on her body like jewelry to create music. When she moves her hands or body, the sensors send signals to a computer, which changes the sounds she is making in real time during her performances.</description>
     </item>
     <item>
-      <title>Host in Netlify</title>
-      <link>http://localhost:1313/post/2020/jan/netlify-conf/</link>
+      <title>Imogen Heap</title>
+      <link>http://localhost:1313/post/2020/jan/06-heap/</link>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2020/jan/netlify-conf/</guid>
-      <description>You can host your static website wth zero cost in Netlify.&#xA;Add the below netlify.toml in the root folder.&#xA;[build] publish = &amp;quot;public&amp;quot; command = &amp;quot;hugo --gc --minify&amp;quot; [context.production.environment] HUGO_VERSION = &amp;quot;0.</description>
+      <guid>http://localhost:1313/post/2020/jan/06-heap/</guid>
+      <description>Instrument: Mi.Mu Gloves (2000s) &amp;ndash; Imogen Heap’s gloves let her control the music she’s playing in concerts without touching anything. She can make sounds louder, softer, or change their pitch just by moving her hands and fingers in certain ways.</description>
     </item>
     <item>
-      <title>Who am I ?!</title>
-      <link>http://localhost:1313/post/2020/jan/who-am-i/</link>
+      <title>Bjork</title>
+      <link>http://localhost:1313/post/2020/jan/08-bjork/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2020/jan/who-am-i/</guid>
-      <description>Who am I ?! This is the most asked question in my life. Yet no clear answer has yet been found.&#xA;As a child, the answer to this question was simple.</description>
+      <guid>http://localhost:1313/post/2020/jan/08-bjork/</guid>
+      <description>Instrument: Reactable, Biophilia app (2000s) &amp;ndash; Bjork (said like bee-york) used a device called the Reactable, where she placed blocks on a table to control different sounds by moving them around.</description>
+    </item>
+    <item>
+      <title>Laurie Spiegel</title>
+      <link>http://localhost:1313/post/2020/jan/03-spiegel/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2020/jan/03-spiegel/</guid>
+      <description>Instrument: Music Mouse (1980s) &amp;ndash; Laurie Spiegel created a special computer program called Music Mouse that let people make music by moving their computer mouse. With this program, she could control melodies and harmonies by just moving the mouse around the screen, letting her compose music in a new way.</description>
+    </item>
+    <item>
+      <title>Marco Donnarumma</title>
+      <link>http://localhost:1313/post/2020/jan/09-marco/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2020/jan/09-marco/</guid>
+      <description>Instrument: XTH Sense (2000s) &amp;ndash; Marco Donnarumma is known for using XTH Sense, a biosensor technology he developed that captures the sound of muscle movements in real time. By attaching the sensors to his body, Donnarumma can control electronic sounds through his muscle contractions and body movements, making his body both the performer and the instrument.</description>
     </item>
   </channel>
 </rss>
