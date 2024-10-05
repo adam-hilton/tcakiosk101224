@@ -10,7 +10,7 @@ Description  : "Sensor-y gloves"
 
 ##### (1990s)
 
-###### --
+## &nbsp;
 
 Laetitia Sonami’s special glove had sensors that let her make music by moving her hands. She could control different sounds or even lights by bending her fingers or waving her arm.
 

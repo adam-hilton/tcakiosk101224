@@ -10,7 +10,7 @@ Description  : "Point and click!"
 
 ##### (1980s)
 
-###### --
+## &nbsp;
 
 Laurie Spiegel created a special computer program called Music Mouse that let people make music by moving their computer mouse. With this program, she could control melodies and harmonies by just moving the mouse around the screen, letting her compose music in a new way.
 

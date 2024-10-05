@@ -12,7 +12,7 @@ featured: true
 
 ##### (1970s)
 
-###### --
+## &nbsp;
 
 Michel Waisvisz, a Dutch composer and inventor, developed a groundbreaking instrument called The Hands. This instrument allowed him to control electronic sounds by simply moving his hands in the air. By bending his fingers, lifting his arms, or making gestures, he could manipulate the music in real time.
 

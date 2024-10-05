@@ -11,7 +11,7 @@ featured: true
 
 ##### (1920s)
 
-###### --
+## &nbsp;
 
 Leon Theremin created an instrument in the 1920s named after him: the Theremin. 
 

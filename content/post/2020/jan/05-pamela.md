@@ -11,7 +11,7 @@ featured: true
 
 ##### (1990s)
 
-###### --
+## &nbsp;
 
 Pamela Z uses sensors placed on her body like jewelry to create music. When she moves her hands or body, the sensors send signals to a computer, which changes the sounds she is making in real time during her performances.
 

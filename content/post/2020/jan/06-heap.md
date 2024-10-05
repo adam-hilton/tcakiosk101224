@@ -10,7 +10,7 @@ Description  : "Multi-Movement Gloves"
 
 ##### (2000s)
 
-###### --
+## &nbsp;
 
 Imogen Heap’s gloves let her control the music she’s playing in concerts without touching anything. She can make sounds louder, softer, or change their pitch just by moving her hands and fingers in certain ways.
 
