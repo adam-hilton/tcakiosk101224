@@ -1,10 +1,12 @@
 ---
 title: Atau Tanaka
-date: 2020-01-25
+date: 2020-01-03
 # tags: ["markdown","syntax"]
 image : "/img/posts/tanaka.gif"
 Description  : "Muscley Movement"
 ---
+
+###### *Image source: XXXX*
 
 ### Instrument: **Muscle Sensors**
 

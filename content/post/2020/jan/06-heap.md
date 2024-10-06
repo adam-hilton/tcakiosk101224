@@ -6,6 +6,8 @@ image : "/img/posts/imogen.gif"
 Description  : "Multi-Movement Gloves"
 ---
 
+###### *Image source: XXXX*
+
 ### Instrument: **Mi.Mu Gloves**
 
 ##### (2000s)

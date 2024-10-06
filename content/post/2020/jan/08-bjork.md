@@ -1,10 +1,12 @@
 ---
 title: Bjork
-date: 2020-01-01
+date: 2020-01-02
 # tags: ["stoicism"]
 image : "/img/posts/react.gif"
 Description  : "Table-top music"
 ---
+
+###### *Image source: XXXX*
 
 ### Instrument: **Reactable, Biophilia app**
 

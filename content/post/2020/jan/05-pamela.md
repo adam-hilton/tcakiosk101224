@@ -1,11 +1,13 @@
 ---
 title: Pamela Z 
-date: 2020-01-20
+date: 2020-01-05
 # tags: ["hugo","shortcodes"]
 image : "/img/posts/pamela.gif"
 Description  : Full-Body Sounds
 featured: true
 ---
+
+###### *Image source: XXXX*
 
 ### Instrument: **BodySynth**
 

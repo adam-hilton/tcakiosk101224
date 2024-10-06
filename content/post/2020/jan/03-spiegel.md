@@ -1,10 +1,12 @@
 ---
 title: Laurie Spiegel
-date: 2020-01-01
+date: 2020-01-07
 # tags: ["stoicism"]
 image : "/img/posts/music-mouse.gif"
 Description  : "Point and click!"
 ---
+
+###### *Image source: XXXX*
 
 ### Instrument: **Music Mouse**
 

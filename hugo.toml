@@ -1,4 +1,4 @@
-baseURL = 'https://tcakiosk101224.netlify.app/'
+baseURL = 'https://tcakiosk-101224-1.netlify.app/'
 languageCode = 'en-us'
 title = 'Movement to Music'
 theme = 'lightbi-hugo'

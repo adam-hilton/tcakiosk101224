@@ -1,10 +1,12 @@
 ---
 title: Laetitia Sonami
-date: 2020-01-27
+date: 2020-01-06
 # tags: ["markdown"]
 image : "/img/posts/ladys-glove.gif"
 Description  : "Sensor-y gloves"
 ---
+
+###### *Image source: XXXX*
 
 ### Instrument: **Lady's Glove**
 
