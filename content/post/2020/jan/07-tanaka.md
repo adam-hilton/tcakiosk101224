@@ -8,6 +8,8 @@ Description  : "Muscley Movement"
 
 ###### *Image source: YouTube @atautana*
 
+#### &nbsp;
+
 ### Instrument: **Muscle Sensors**
 
 ##### (2000s)

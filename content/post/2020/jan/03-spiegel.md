@@ -8,6 +8,8 @@ Description  : "Point and click!"
 
 ###### *Image source: YouTube, @jonmerel*
 
+#### &nbsp;
+
 ### Instrument: **Music Mouse**
 
 ##### (1980s)

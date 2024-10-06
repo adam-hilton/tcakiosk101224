@@ -8,6 +8,8 @@ Description  : "Sensor-y gloves"
 
 ###### *Image source: Cartier Foundation for Contemporary Art*
 
+#### &nbsp;
+
 ### Instrument: **Lady's Glove**
 
 ##### (1990s)

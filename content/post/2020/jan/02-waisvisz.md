@@ -9,6 +9,8 @@ featured: true
 
 ###### *Image source: STEIM.org VHS archive*
 
+#### &nbsp;
+
 ### Instrument: **The Hands**
 
 ##### (1970s)

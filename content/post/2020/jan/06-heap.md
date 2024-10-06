@@ -8,6 +8,8 @@ Description  : "Multi-Movement Gloves"
 
 ###### *Image source: Dezeen*
 
+#### &nbsp;
+
 ### Instrument: **Mi.Mu Gloves**
 
 ##### (2000s)
