@@ -6,7 +6,7 @@ image : "/img/posts/tanaka.gif"
 Description  : "Muscley Movement"
 ---
 
-###### *Image source: XXXX*
+###### *Image source: YouTube @atautana*
 
 ### Instrument: **Muscle Sensors**
 

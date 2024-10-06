@@ -7,7 +7,7 @@ Description  : "Hand Cuffs"
 featured: true
 ---
 
-###### *Image source: XXXX*
+###### *Image source: STEIM.org VHS archive*
 
 ### Instrument: **The Hands**
 

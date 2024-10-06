@@ -6,7 +6,7 @@ image : "/img/posts/react.gif"
 Description  : "Table-top music"
 ---
 
-###### *Image source: XXXX*
+###### *Image source: YouTube, Reactable Legacy*
 
 ### Instrument: **Reactable, Biophilia app**
 

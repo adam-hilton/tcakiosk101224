@@ -6,7 +6,7 @@ image : "/img/posts/music-mouse.gif"
 Description  : "Point and click!"
 ---
 
-###### *Image source: XXXX*
+###### *Image source: YouTube, @jonmerel*
 
 ### Instrument: **Music Mouse**
 

@@ -7,7 +7,7 @@ Description  : Full-Body Sounds
 featured: true
 ---
 
-###### *Image source: XXXX*
+###### *Image source: YouTube @PamelaZ*
 
 ### Instrument: **BodySynth**
 

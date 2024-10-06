@@ -6,7 +6,7 @@ image : "/img/posts/ladys-glove.gif"
 Description  : "Sensor-y gloves"
 ---
 
-###### *Image source: XXXX*
+###### *Image source: Cartier Foundation for Contemporary Art*
 
 ### Instrument: **Lady's Glove**
 

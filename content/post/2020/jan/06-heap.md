@@ -6,7 +6,7 @@ image : "/img/posts/imogen.gif"
 Description  : "Multi-Movement Gloves"
 ---
 
-###### *Image source: XXXX*
+###### *Image source: Dezeen*
 
 ### Instrument: **Mi.Mu Gloves**
 
