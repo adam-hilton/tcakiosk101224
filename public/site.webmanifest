@@ -2,6 +2,5 @@
     "name": "Movement to Music",
     "short_name": "M2M",
     "icons": [],
-    "start_url": "/",
     "display": "standalone"
 }
