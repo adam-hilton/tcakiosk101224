@@ -10,12 +10,12 @@ Description  : "Sensor-y gloves"
 
 #### &nbsp;
 
-### Instrument: **Lady's Glove**
+### Instrument: ***Lady's Glove***
 
 ##### (1990s)
 
 ## &nbsp;
 
-Laetitia Sonami’s special glove had sensors that let her make music by moving her hands. She could control different sounds or even lights by bending her fingers or waving her arm.
+Laetitia Sonami’s special glove had sensors that let her make music by moving her hands. She could control different sounds or even lights by bending her fingers or waving her arms.
 
 The glove is connected to a computer, and each movement she makes sends signals that control the sound, making it like a musical instrument in the air.

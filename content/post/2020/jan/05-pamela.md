@@ -11,7 +11,7 @@ featured: true
 
 #### &nbsp;
 
-### Instrument: **BodySynth**
+### Instrument: ***BodySynth***
 
 ##### (1990s)
 

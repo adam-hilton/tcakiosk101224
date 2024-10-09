@@ -10,12 +10,12 @@ Description  : "Point and click!"
 
 #### &nbsp;
 
-### Instrument: **Music Mouse**
+### Instrument: ***Music Mouse***
 
 ##### (1980s)
 
 ## &nbsp;
 
-Laurie Spiegel created a special computer program called Music Mouse that let people make music by moving their computer mouse. With this program, she could control melodies and harmonies by just moving the mouse around the screen, letting her compose music in a new way.
+Laurie Spiegel created a special computer program called *Music Mouse* that let people make music by moving their computer mouse. With this program, she could control melodies and harmonies by just moving the mouse around the screen, letting her compose music in a new way.
 
-Music Mouse turned mouse movements into musical patterns by using computer algorithms. It allowed anyone to generate complex music without needing to play an instrument by hand, making music more accessible.
+*Music Mouse* turned mouse movements into musical patterns by using computer algorithms. It allowed anyone to generate complex music without needing to play an instrument by hand, making music more accessible.
