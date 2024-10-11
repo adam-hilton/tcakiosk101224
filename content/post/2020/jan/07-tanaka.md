@@ -16,6 +16,8 @@ Description  : "Muscley Movement"
 
 ## &nbsp;
 
-Atau Tanaka uses special sensors that track the movements of his muscles. As he moves his arms or tightens his muscles, the sensors send information to a computer that turns those movements into sound.
+One musician makes sounds with something even simpler than fingers--the muscles in the arms themselves.
 
-The sensors on his arms use a technology called EMG (electromyography), which reads how his muscles move. The computer then creates sounds or controls music based on these muscle signals.
+Atau Tanaka uses special sensors that track not just how he moves his arms but also how he tightens or relaxes his muscles.
+
+The sensors on his arms use a technology called EMG (electromyography), which reads very small measurements in how his muscles move. These signals are all sent to a computer which creates sounds or controls music based on these muscle signals.

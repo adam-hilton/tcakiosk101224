@@ -16,6 +16,8 @@ Description  : "Multi-Movement Gloves"
 
 ## &nbsp;
 
-Imogen Heap’s *Mi.Mu Gloves* let her control the music she’s playing in concerts without touching anything. She can make sounds louder, softer, or change their pitch just by moving her hands and fingers in certain ways.
+Imogen Heap is a musician who took the idea of movement-tracking gloves even further. 
 
-The gloves are filled with sensors that can feel how her hands move, and they talk to a computer that changes the music based on her gestures.
+With her *Mi.Mu Gloves*, she can her control many different parts of the music she’s playing all at once, and all while playing and singing in front of big audiences. 
+
+She can make sounds louder, softer, or change their pitch, how many notes, how far away or close they sound, how crunchy or smooth they are, and on and on. She can do lots of these things at the same time by moving her hands and fingers in very specific ways.

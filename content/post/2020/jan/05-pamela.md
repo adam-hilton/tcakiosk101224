@@ -17,6 +17,10 @@ featured: true
 
 ## &nbsp;
 
-Pamela Z uses sensors placed on her body like jewelry to create music. When she moves her hands or body, the sensors send signals to a computer, which changes the sounds she is making in real time during her performances.
+Other musicians use sensors all over different parts of their bodies.
 
-The sensors detect movements, like the angle of her arms, and the computer translates these into changes in pitch, rhythm, or effects for her voice or other sounds.
+Pamela Z has created lots of movement-based instruments, which track different kinds of movements from different parts of the body.
+
+You can see her here using one placed on her hands like jewelry, which tracks the speed of her hands. This let her make the sounds of typewriter by pretending to type in the air.
+
+The sensors from different kinds of her instruments detect movements, like the angle of her arms, and the computer translates these into changes in pitch, rhythm, or effects for her voice or other sounds.

@@ -12,10 +12,12 @@ Description  : "Sounds in Your Body"
 
 ### Instrument: ***XTH Sense***
 
-##### (2000s)
+##### (2010s)
 
 ## &nbsp;
 
-Marco Donnarumma is known for using *XTH Sense*, a biosensor technology he developed that captures the sound of muscle movements in real time. By attaching the sensors to his body, Donnarumma can control electronic sounds through his muscle contractions and body movements, making his body both the performer and the instrument.
+A very recent musician is Marco Donnarumma who created an instrument called *XTH Sense*.
 
-*XTH Sense* is a wearable sensor that detects the low sounds made by muscle movements and turns them into musical sounds and signals. This allows him to create performances where every motion affects the music.
+His instrument not only tracks how the muscles in his arms *move*, but also how they ***sound***.
+
+By attaching the sensors to his body, he can control sounds by how his muscles move, while the sounds *in* his body are being amplified at the same time. This makes him both the performer and the instrument.
