@@ -1,6 +1,6 @@
 baseURL = 'https://tcakiosk-101224-1.netlify.app/'
 languageCode = 'en-us'
-title = 'Movement to Music'
+title = 'Moving Sound'
 theme = 'lightbi-hugo'
 DefaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
@@ -36,7 +36,7 @@ lastmod = false
 rss = false
 pagination = "10"
 hideAuthor = true
-description="A collection of Movement-based musicians"
+description="A collection of artists who made their sound through movement"
 previewCardImagePlacement = "bottom"
 
 

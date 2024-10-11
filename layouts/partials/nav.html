@@ -7,12 +7,12 @@
         <div class="container">
 
           <a class="navbar-brand fw-bold" href="{{ "" | absLangURL }}">{{ .Site.Title }}</a>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+          <!-- <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
             aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
-          </button>
+          </button> -->
 
-          <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+          <!-- <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
             <ul class="navbar-nav mb-2 mb-lg-0 align-items-baseline">
               {{ range .Site.Menus.main.ByWeight }}
               {{ if .HasChildren }}
@@ -38,7 +38,7 @@
               </li>
 
               {{ end }}
-              {{ end }}
+              {{ end }} -->
 
 
             <!-- Language Switcher -->    
@@ -67,7 +67,7 @@
               </li> -->
 
               <!-- Lunar search -->
-              {{ if .Site.Params.lunrSearch }}
+              <!-- {{ if .Site.Params.lunrSearch }}
               <li class="nav-item search-item">
                 <form id="search" class="search" role="search">
                   <label for="search-input" class="bi bi-search search-icon"></label>
@@ -107,7 +107,7 @@
               </div>
             </template>
             {{ end }}
-          </div>
+          </div> -->
         </div>
       </nav>
 
