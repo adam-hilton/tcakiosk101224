@@ -12,7 +12,7 @@
       <p>&nbsp;</p>
     </h1>
     <p>
-      There are lots of cool examples of musicians and artists using their movements to manipulate sounds without using any kind of “instrument” as we know it, but by using technology instead!
+      There are lots of cool examples of musicians and artists using their movements to control sounds without using any kind of “instrument” as we know it, but by using technology instead!
       <p>&nbsp;</p>
     </p>
     {{ with .Content }}
@@ -22,7 +22,7 @@
     {{ end }}
 
 
-    {{ $pag := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections ) 9 }}
+    {{ $pag := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections ) 12 }}
     {{ range $pag.Pages }}
     {{ partial "post_preview_card" . }}
     {{ end }}
